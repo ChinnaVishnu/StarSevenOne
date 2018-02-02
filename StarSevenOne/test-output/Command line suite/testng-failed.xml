@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.jocata.star.Mis.Latest.BenchmarksReport">
+        <methods>
+          <include name="clicingmisreports"/>
+        </methods>
+      </class> <!-- com.jocata.star.Mis.Latest.BenchmarksReport -->
+      <class name="com.jocata.star.screens.FalsePositiveManager">
+        <methods>
+          <include name="testprofiles"/>
+        </methods>
+      </class> <!-- com.jocata.star.screens.FalsePositiveManager -->
+      <class name="com.jocata.star.existingfuctions.AddruleChangesFuctionaltiy">
+        <methods>
+          <include name="loginNew"/>
+        </methods>
+      </class> <!-- com.jocata.star.existingfuctions.AddruleChangesFuctionaltiy -->
+      <class name="com.jocata.star.grid.GridAddReport3">
+        <methods>
+          <include name="GridTest"/>
+        </methods>
+      </class> <!-- com.jocata.star.grid.GridAddReport3 -->
+      <class name="com.jocata.star.screens.CustomerDetailsProfile">
+        <methods>
+          <include name="testprofiles"/>
+        </methods>
+      </class> <!-- com.jocata.star.screens.CustomerDetailsProfile -->
+      <class name="com.jocata.star.Mis.Latest.BenchmarksRunReport2">
+        <methods>
+          <include name="clicingmisreports"/>
+        </methods>
+      </class> <!-- com.jocata.star.Mis.Latest.BenchmarksRunReport2 -->
+      <class name="com.jocata.star.Mis.Latest.CaseDetailsReport">
+        <methods>
+          <include name="clicingmisreports"/>
+        </methods>
+      </class> <!-- com.jocata.star.Mis.Latest.CaseDetailsReport -->
+      <class name="com.jocata.star.Mis.Latest.RuleSummereyReport">
+        <methods>
+          <include name="fristlogin"/>
+          <include name="getResult"/>
+          <include name="clicingmisreports"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.jocata.star.Mis.Latest.RuleSummereyReport -->
+      <class name="com.jocata.star.exportexcels.DashboardTask">
+        <methods>
+          <include name="testDashBoard"/>
+        </methods>
+      </class> <!-- com.jocata.star.exportexcels.DashboardTask -->
+      <class name="com.jocata.star.exportexcels.CustomerPeerProfile">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.jocata.star.exportexcels.CustomerPeerProfile -->
+      <class name="com.jocata.star.grid.ADDRolesModify">
+        <methods>
+          <include name="GridTest"/>
+        </methods>
+      </class> <!-- com.jocata.star.grid.ADDRolesModify -->
+      <class name="com.jocata.star.existingfuctions.AddBenchMarkReportsChanges2">
+        <methods>
+          <include name="init"/>
+        </methods>
+      </class> <!-- com.jocata.star.existingfuctions.AddBenchMarkReportsChanges2 -->
+      <class name="com.jocata.star.screens.ExclusionList">
+        <methods>
+          <include name="testprofiles"/>
+        </methods>
+      </class> <!-- com.jocata.star.screens.ExclusionList -->
+      <class name="com.jocata.star.includeexculde.GridModules2">
+        <methods>
+          <include name="clickgridmodules"/>
+        </methods>
+      </class> <!-- com.jocata.star.includeexculde.GridModules2 -->
+      <class name="com.jocata.star.exportexcels.NetworkExportGraph">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.jocata.star.exportexcels.NetworkExportGraph -->
+      <class name="com.jocata.star.exportexcels.TrancastionRulePopUpExport">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.jocata.star.exportexcels.TrancastionRulePopUpExport -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
